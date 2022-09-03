@@ -1,5 +1,5 @@
 # Pig---Simple-Java-console-game
-A simple game I made for the Java console in 10th grade.
+(December 2021) A simple game I made for the Java console in 10th grade.
 Wanted to upload it now because a few of my friends were struggling with Java now (12th grade) and this makes a decent guide in my opinion. :)
 
 (Not an up-to-date example of my current work. lol)
